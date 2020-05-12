@@ -8,4 +8,6 @@ Understand the usage of GIT tool.
 
 ## Development
 
+Modify the files and test the GIT commands.
+
 ## Status
