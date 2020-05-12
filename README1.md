@@ -12,8 +12,6 @@ Modify the files and test the GIT commands.
 
 ## Status
 
-Still working on it!!!
-Is it?!
-Yes, we are!!
+Going good.
 
 Copyright 2020
