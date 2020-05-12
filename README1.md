@@ -14,3 +14,5 @@ Modify the files and test the GIT commands.
 
 Still working on it!!!
 Is it?!
+
+Copyright 2020
