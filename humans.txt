@@ -1,6 +1,8 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+Stash test.
+
 # TEAM
 
 	Saravanan Dev	None
