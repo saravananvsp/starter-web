@@ -12,6 +12,6 @@ Modify the files and test the GIT commands.
 
 ## Status
 
-Going good.
+Going good and more changes from mynewfeature branch.
 
 Copyright 2020
